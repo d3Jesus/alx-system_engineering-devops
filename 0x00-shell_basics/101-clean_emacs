@@ -1,2 +1,2 @@
 #!/bin/bash
-rm [A-z]*~
+rm ./[A-z]*~
