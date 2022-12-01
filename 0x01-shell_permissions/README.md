@@ -11,3 +11,4 @@ TASK 7: Adds execute permission to the owner, the group owner and the other user
 TASK 8: James Bond.
 TASK 9:	John Doe.
 TASK 10: Look in the mirror.
+TASK 11: Directories.
