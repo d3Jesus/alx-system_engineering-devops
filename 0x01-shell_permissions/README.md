@@ -10,3 +10,4 @@ TASK 6: Adds execute permission to the owner and the group owner and read permis
 TASK 7: Adds execute permission to the owner, the group owner and the other users to the file hello.
 TASK 8: James Bond.
 TASK 9:	John Doe.
+TASK 10: Look in the mirror.
