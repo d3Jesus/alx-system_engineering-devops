@@ -1,4 +1,4 @@
-Working with permissions!
+# Working with permissions!
 
 + TASK 0: Switches the current user to the user betty.
 + TASK 1: Prints the efective username of the current user.
@@ -14,7 +14,7 @@ Working with permissions!
 + TASK 11: Adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 + TASK 12: Creates a directory called my_dir with permissions 751 int the working directory.
 + TASK 13: Changes the group owner to school for the file hello.
-#ADVANCED
+## ADVANCED
 + TASK 14: Changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 + TASK 15: Changes the owner and the group owner of _hello to vincent and staff respectively.
 + TASK 16: Changes the owner of the file hello to betty only if it is owned by user guillaume.
