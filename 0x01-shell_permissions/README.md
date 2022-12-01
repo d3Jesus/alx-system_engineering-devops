@@ -17,3 +17,4 @@ TASK 13: Changes the group owner to school for the file hello.
 #ADVANCED
 TASK 14: Changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 TASK 15: Changes the owner and the group owner of _hello to vincent and staff respectively.
+TASK 16: Changes the owner of the file hello to betty only if it is owned by user guillaume.
