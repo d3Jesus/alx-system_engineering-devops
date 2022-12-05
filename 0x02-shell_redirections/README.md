@@ -16,3 +16,4 @@
 The current and parent directories should not be taken into account
 Hidden directories should be counted.
 + TASK 12: Displays the 10 newest files in the current directory.
++ TASK 13: Takes a list of words as input and prints only words that appear exactly once.
