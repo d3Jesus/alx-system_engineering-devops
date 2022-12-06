@@ -29,3 +29,4 @@ Hidden directories should be counted.
 + TASK 23: Finds all empty files and directories in the current directory and all sub-directories
 + TASK 24: Lists all the files with a .gif extension in the current directory and all its sub-directories.
 + TASK 25: An acrostic is a poem (or other form of writing) in which the first letter (or syllable, or word) of each line (or paragraph, or other recurring feature in the text) spells out a word, message or the alphabet. The word comes from the French acrostiche from post-classical Latin acrostichis). As a form of constrained writing, an acrostic can be used as a mnemonic device to aid memory retrieval.
++ TASK 26: Parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
