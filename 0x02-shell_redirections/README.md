@@ -24,3 +24,4 @@ Hidden directories should be counted.
 + TASK 18: Display all lines of the file '/etc/ssh/sshd_config' starting with a letter.
 + TASK 19: Replace all characters 'A' and 'c' from input to 'Z' and 'e' respectively.
 + TASK 20: Removes all letters 'c' and 'C' from input
++ TASK 21: Reverse its input.
