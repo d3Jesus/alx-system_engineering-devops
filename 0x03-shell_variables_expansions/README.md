@@ -1,4 +1,4 @@
-#Shell, init files, variables and expansions
+# Shell, init files, variables and expansions
 
 + TASK 0: Create an alias: name=ls and value=rm *
 + TASK 1: Prints hello user where user is the current Linux user
@@ -11,4 +11,4 @@
 + TASK 8: Prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 + TASK 9: Prints the result of POWER divided by DIVIDE, followed by a new line.
 + TASK 10: Displays the result of BREATH to the power LOVE.
-++ TASK 11: Converts a number from base 2 to base 10.
++ TASK 11: Converts a number from base 2 to base 10.
