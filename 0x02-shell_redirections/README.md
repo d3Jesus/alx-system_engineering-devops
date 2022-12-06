@@ -25,3 +25,4 @@ Hidden directories should be counted.
 + TASK 19: Replace all characters 'A' and 'c' from input to 'Z' and 'e' respectively.
 + TASK 20: Removes all letters 'c' and 'C' from input
 + TASK 21: Reverse its input.
++ TASK 22: Displays all users and their home directories, sorted by users.
