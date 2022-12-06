@@ -9,3 +9,4 @@
 + TASK 6: Creates a new local variable.
 + TASK 7: creates a new global variable.
 + TASK 8: Prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
++ TASK 9: Prints the result of POWER divided by DIVIDE, followed by a new line.
