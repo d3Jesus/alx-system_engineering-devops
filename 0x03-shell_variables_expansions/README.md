@@ -7,3 +7,4 @@
 + TASK 4: Lists environment variables.
 + TASK 5: Lists all local variables and environment variables, and functions.
 + TASK 6: Creates a new local variable.
++ TASK 7: creates a new global variable.
