@@ -38,3 +38,7 @@
 	+ The script should display the number in base 16, followed by a new line
 + TASK 15: Script that encodes and decodes text using the rot13 encryption. Assume ASCII.
 + TASK 16: Script that prints every other line from the input, starting with the first line.
++ TASK 17: Script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
+	+ WATER is in base water.
+	+ STIR is in base stir.
+	+ The result should be in base bestchol
