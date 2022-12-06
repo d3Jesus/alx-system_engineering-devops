@@ -26,3 +26,4 @@ Hidden directories should be counted.
 + TASK 20: Removes all letters 'c' and 'C' from input
 + TASK 21: Reverse its input.
 + TASK 22: Displays all users and their home directories, sorted by users.
++ TASK 23: Finds all empty files and directories in the current directory and all sub-directories
