@@ -27,3 +27,4 @@ Hidden directories should be counted.
 + TASK 21: Reverse its input.
 + TASK 22: Displays all users and their home directories, sorted by users.
 + TASK 23: Finds all empty files and directories in the current directory and all sub-directories
++ TASK 24: Lists all the files with a .gif extension in the current directory and all its sub-directories.
